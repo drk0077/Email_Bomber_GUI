@@ -7,9 +7,11 @@ for creating the App password refer the link below:
 https://youtu.be/hXiPshHn9Pw?si=ZjJg3fwdWldkE3wf
 
 commands to clone thr repo:
-git clone 
+git clone https://github.com/drk0077/Email_Bomber_GUI.git
 
 change the working directory
+cd Email_Bomber_GUI
+
 then,
 chmod +x emailbomber.py
 
