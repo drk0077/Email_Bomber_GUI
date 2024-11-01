@@ -1,4 +1,4 @@
-# Email_Bomber_GUI
+**# Email_Bomber_GUI**
 user friendly Graphical User Interface based email bomber. 
 python Tkinter based email bomber created as a part of my research and educational purpose.
 
@@ -7,13 +7,18 @@ for creating the App password refer the link below:
 https://youtu.be/hXiPshHn9Pw?si=ZjJg3fwdWldkE3wf
 
 commands to clone thr repo:
+```sh
 git clone https://github.com/drk0077/Email_Bomber_GUI.git
+```
 
 change the working directory
+```sh
 cd Email_Bomber_GUI
-
+```
 then,
 chmod +x emailbomber.py
 
 to run the application ;
+```sh
 python3 emailbomber.py
+```
